@@ -1,4 +1,4 @@
-pathway==0.8.2
+pathway
 python-dotenv==1.0.1
 litellm==1.17.3
 unstructured[all-docs]==0.10.28
@@ -7,3 +7,4 @@ tiktoken
 requests
 datetime
 streamlit==1.31.0
+google-generativeai
